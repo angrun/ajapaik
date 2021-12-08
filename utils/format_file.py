@@ -6,7 +6,7 @@ value_descriptions = {"0": "not applicable", "1": "natural", "-1": "staged"}
 
 def read_tags():
     tags_data = {}
-
+d
     f = open(SOURCE_FILE)
     data = json.load(f)
     for element in data["CatTag"]:
