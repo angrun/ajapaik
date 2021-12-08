@@ -1,0 +1,64 @@
+ "CatTag": {
+        "1": {
+            "fields": {
+                "active": true,
+                "level": 1,
+                "name": "interior_or_exterior"
+            },
+            "model": "sift.cattag",
+            "pk": 1
+        },
+        "2": {
+            "fields": {
+                "active": true,
+                "level": 2,
+                "name": "urban_or_rural"
+            },
+            "model": "sift.cattag",
+            "pk": 2
+        },
+        "3": {
+            "fields": {
+                "active": false,
+                "level": 3,
+                "name": "public_or_private"
+            },
+            "model": "sift.cattag",
+            "pk": 3
+        },
+        "4": {
+            "fields": {
+                "active": true,
+                "level": 1,
+                "name": "view_or_social"
+            },
+            "model": "sift.cattag",
+            "pk": 4
+        },
+        "5": {
+            "fields": {
+                "active": true,
+                "level": 2,
+                "name": "ground_or_raised"
+            },
+            "model": "sift.cattag",
+            "pk": 5
+        },
+        "6": {
+            "fields": {
+                "active": true,
+                "level": 2,
+                "name": "one_or_many"
+            },
+            "model": "sift.cattag",
+            "pk": 6
+        },
+        "8": {
+            "fields": {
+                "active": true,
+                "level": 3,
+                "name": "whole_or_detail"
+            },
+            "model": "sift.cattag",
+            "pk": 8
+        },
